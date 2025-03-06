@@ -4,7 +4,6 @@ result = []
 temp = 0
 
 while(1):
-
     start = int((2*N-L*L+L)*(2*L)**(-1)) 
     end = start + L -1
 
