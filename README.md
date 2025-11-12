@@ -4,6 +4,7 @@ Python으로 푸는 알고리즘 문제 풀이 저장소입니다.
 
 ## 📂 Folder Structure
 
+```
 src/
 ├─ programmers/
 │ ├─ lv1/
@@ -11,6 +12,7 @@ src/
 └─ baekjoon/
 ├─ silver/
 ├─ gold/
+```
 
 ## 🚀 Languages
 
