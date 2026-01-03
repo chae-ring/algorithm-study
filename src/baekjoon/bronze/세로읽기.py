@@ -20,5 +20,4 @@ for i in range(max_length):
     for word in words:
         if i < len(word):
             result.append(word[i])
-print(''.join(result))
- 
+print(''.join(result)) 
